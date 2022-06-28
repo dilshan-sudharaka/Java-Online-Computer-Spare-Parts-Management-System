@@ -1,0 +1,96 @@
+.container{
+	margin-top: 70px;
+}
+
+.newarrival{
+	background: green;
+	width: 50px;
+	color: white;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+.col-md-7 h2{
+
+	color: #555;
+}
+
+.stars{
+	height: 20px;
+}
+
+.price{
+	color: #FE980F;
+	font-size: 26px;
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+.inQu input{
+	border: 2px solid #CCC;
+	font-weight: bold;
+	height: 33px;
+	text-align: center;
+	width: 40px;
+}
+
+
+.inCus1 input{
+	border: 2px solid #CCC;
+	/*font-weight: bold;*/
+	height: 33px;
+	text-align: center;
+	width: 200px;
+}
+
+.inCus2 input{
+	border: 2px solid #CCC;
+	/*font-weight: bold;*/
+	height: 33px;
+	text-align: center;
+	width: 300px;
+}
+
+.inCus3 input{
+	border: 2px solid #CCC;
+	/*font-weight: bold;*/
+	height: 33px;
+	text-align: center;
+	width: 120px;
+}
+
+input{
+	border: 2px solid white;
+}
+
+.proName{
+	width: 800px;
+	color: #555;
+	font-weight: 500;
+}
+
+.inVal input{
+	border: 2px solid white;
+	/*font-weight: bold;*/
+	height: 33px;
+	text-align: center;
+	width: 65px;
+}
+
+.inCal input{
+	border: 2px solid white;
+	border-radius: 5px;
+	font-weight: bold;
+	height: 40px;
+	text-align: center;
+	width: 120px;
+	background: #FE980F;
+	color: #FFFFFF;
+}
+
+.cart{
+	background: #FE980F;
+	color: #FFFFFF;
+	font-size: 15px;
+	margin-left: 0px;
+}
